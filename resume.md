@@ -11,6 +11,7 @@ Intro to Data Journalism Markdown practice resume
 1. HTML
 2. Java
 3. Excel
+
 First Header | Second Header
 ------------ | -------------
 Content Cell 1 | Content Cell 2
