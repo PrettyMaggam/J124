@@ -5,8 +5,6 @@ Intro to Data Journalism Markdown practice resume
 
 !['Write','Pen and Paper'](/write.jpeg)
 
-!['Cover','Barbecue'](/Cover.jpg)
-
 ## Skills
 1. HTML
 2. Java
