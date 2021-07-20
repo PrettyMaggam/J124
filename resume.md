@@ -7,7 +7,7 @@ Intro to Data Journalism Markdown practice resume
 
 !['Cover','Barbecue'](/Cover.jpg)
 
-##Skills
+## Skills
 1. HTML
 2. Java
 3. Excel
