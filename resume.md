@@ -3,7 +3,7 @@ Intro to Data Journalism Markdown practice resume
 # Pretty Maggam
 ## I am a Content Developer, HR-Manager
 
-!['Write','Pen and Paper'](/write.jpg)
+!['Write','Pen and Paper'](/write.jpeg)
 
 !['Cover','Barbecue'](/Cover.jpg)
 
