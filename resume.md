@@ -2,4 +2,4 @@
 Intro to Data Journalism Markdown practice resume
 # Pretty Maggam
 ## I am a Content Developer, HR-Manager
-!['Cover','Barbecue'](/cover.jpg)
+!['Cover','Barbecue'](/Cover.jpg)
