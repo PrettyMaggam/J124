@@ -12,7 +12,7 @@ Intro to Data Journalism Markdown practice resume
 2. Java
 3. Excel
 
-First Header | Second Header
------------- | -------------
-Content Cell 1 | Content Cell 2
+Employer | Job Description
+-------- | ---------------
+Content Cell 1   | Content Cell 2
 Content Column 1 | Content Column 2
