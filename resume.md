@@ -14,5 +14,6 @@ Intro to Data Journalism Markdown practice resume
 
 Employer | Job Description
 -------- | ---------------
-Content Cell 1   | Content Cell 2
-Content Column 1 | Content Column 2
+Tata Consultancy Serivces  | Software Engineer and Magazine Editor
+Brainly International | Content Writer
+MicroNet It Solutions | Content Developer and HR Manager
